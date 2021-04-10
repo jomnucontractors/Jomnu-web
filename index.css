@@ -1,0 +1,72 @@
+#bLogin{
+	background-color:black;
+}
+header{
+	background-color: #a9a9a9;
+	margin: 0px;
+	padding: 10px;
+	text-align: center;
+	color: red;
+}
+#navigation{
+	list-style-type: none;
+	padding: 0px;
+	margin: 0px;
+	overflow: hidden;
+	background-color: green;
+}
+#navigation li{
+	float: left;
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+#navigation li a{
+	padding-right: 30px;
+	padding-top: 20px;
+	margin-left: 10px;
+	padding-bottom: 15px;
+	padding-left: 60px;
+	display: inline;
+	color: white;
+	text-decoration: none;
+}
+#active{
+	background-color: #9acd32;
+}
+img{
+	height: 100px;
+	width: 200px;
+	border-radius: 40px;
+}
+footer{
+	margin-bottom: 0px;
+	margin-top: 30px;
+	text-align: center;
+	padding-top: 10px;
+	background-color: #ffe4c4;
+}
+#login{
+	padding-top: 10px;
+	background-color: #b0c4de;
+	padding-bottom: 50px;
+	padding-left: 40px;
+	padding-right: 50px;
+	float: right;
+	text-align: center;
+	border-radius: 100px;
+}
+#signUp{
+	background-image: url("bi1.png");
+	text-align: left;
+	color: white;
+	padding-left: 20px;
+	border-radius: 100px;
+}
+#icon{
+	border-radius: 90px;
+	height: 100px;
+	width: 120px;
+}
+.main{
+	text-align: center;
+}
